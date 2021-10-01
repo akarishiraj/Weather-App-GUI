@@ -16,6 +16,7 @@ To run this project, install:
   - Pillow
   - API Link: "https://openweathermap.org/api"
 
-
+## Contributor
+* [Rishi Raj](https://github.com/akarishiraj) 
 
 
